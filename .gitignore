@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+*.env
+venv/
+myworld/Lib/
+myworld/Scripts/
+db.sqlite3  # If using SQLite and you don't want to share the database
